@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppHost", "AppHost\AppHost.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Properties", "Properties", "{56CFF4C0-8725-437D-AEAD-9A7629898F18}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceDefaults", "ServiceDefaults\ServiceDefaults.csproj", "{0621E6F2-2C38-4F7A-A893-2ACAC69985FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{85A1CCAE-A46B-4749-9737-1D7AB7034068}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{85A1CCAE-A46B-4749-9737-1D7AB7034068}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{85A1CCAE-A46B-4749-9737-1D7AB7034068}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0621E6F2-2C38-4F7A-A893-2ACAC69985FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0621E6F2-2C38-4F7A-A893-2ACAC69985FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0621E6F2-2C38-4F7A-A893-2ACAC69985FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0621E6F2-2C38-4F7A-A893-2ACAC69985FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
